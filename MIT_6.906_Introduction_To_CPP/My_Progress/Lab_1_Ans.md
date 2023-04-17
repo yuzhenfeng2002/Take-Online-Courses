@@ -241,7 +241,7 @@ int main()
 
 ### Rewriting Factorial II
 
-- [] Just hard code with `switch-case`.
+- [ ] Just hard code with `switch-case`.
 
 ### Further testing
 

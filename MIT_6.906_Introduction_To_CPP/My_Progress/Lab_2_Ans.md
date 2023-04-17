@@ -46,7 +46,7 @@ std::cout << sum(sum(1, 2), 3);
 std::cout << &xPtr << ’ ’ << &yPtr;
 ```
 
-- [] Wrong! Define `int *xPtr = arr, *yPtr = arr + ARRAY_LEN - 1;`.
+- [ ] Wrong! Define `int *xPtr = arr, *yPtr = arr + ARRAY_LEN - 1;`.
 
 ## Sums
 

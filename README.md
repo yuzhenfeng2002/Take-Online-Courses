@@ -10,3 +10,4 @@ A repo storing resources of online courses I've taken/been taking.
 - [Assignment](./MIT_6.906_Introduction_To_CPP/Assignments/)
 - My Progress
   - [Lab 1](./MIT_6.906_Introduction_To_CPP/My_Progress/Lab_1_Ans.md)
+  - [Lab 2](./MIT_6.906_Introduction_To_CPP/My_Progress/Lab_2_Ans.md)
