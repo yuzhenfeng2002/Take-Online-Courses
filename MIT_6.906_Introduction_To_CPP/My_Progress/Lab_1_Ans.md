@@ -241,6 +241,8 @@ int main()
 
 ### Rewriting Factorial II
 
+- [] Just hard code with `switch-case`.
+
 ### Further testing
 
 If the input number is not a number, our program should raise an alert.
